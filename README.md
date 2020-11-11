@@ -6,4 +6,4 @@ One can easily use a for-loop to iter over companies and make comparisons.
 
 ## API key
 
-To run this script, you need to input your Alpha Vantage API key at the place marked in the code. Your API key can be found [here](https://www.alphavantage.co/support/#api-key)
+To run this script, you need to input your Alpha Vantage API key at the place marked in the code. Your API key can be found [here](https://www.alphavantage.co/support/#api-key).
